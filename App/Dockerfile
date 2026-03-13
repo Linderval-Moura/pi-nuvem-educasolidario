@@ -11,7 +11,7 @@ RUN apt-get update && apt-get install -y \
     && rm -rf /var/lib/apt/lists/*
 
 # Copia o arquivo de dependências primeiro (cache de layers)
-COPY requirements.txt .
+COPY Requirements.txt .
 
 # Instala as dependências Python
 RUN pip install --no-cache-dir -r requirements.txt
