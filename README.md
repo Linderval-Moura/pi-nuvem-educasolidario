@@ -69,7 +69,7 @@ ssh -i "sua-chave.pem" ubuntu@ip-publico-aws
 ```
 Clone este repositório:
 ```
-git clone [https://github.com/seu-usuario/educasolidario-cloud.git](https://github.com/seu-usuario/educasolidario-cloud.git)
+git clone https://github.com/Linderval-Moura/pi-nuvem-educasolidario.git
 cd educasolidario-cloud
 ```
 Suba os serviços:
@@ -87,4 +87,4 @@ Abra ```http://seu-ip-publico-aws```
 * Linderval Matias (Integrador & Editor)
 
 📜 Licença
-Este projeto foi desenvolvido para fins acadêmicos no curso de ADS - UFCA.
+* Este projeto foi desenvolvido para fins acadêmicos no curso de ADS - UFCA.
