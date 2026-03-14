@@ -17,7 +17,7 @@
 
 <br />
 
-O **EducaSolidario** é um projeto desenvolvido para a disciplina de Computação em Nuvem (IFCE). Esta versão foca na implantação de uma infraestrutura escalável utilizando **Docker Compose** em uma instância **IaaS (AWS EC2)**.
+O **EducaSolidario** é um projeto desenvolvido para a disciplina de Computação em Nuvem (UFCA). Esta versão foca na implantação de uma infraestrutura escalável utilizando **Docker Compose** em uma instância **IaaS (AWS EC2)**.
 
 ## 🏗️ Arquitetura da Solução
 
